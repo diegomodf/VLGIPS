@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+/*
+paleta de cores preferida da Gisele:
+#F54C4C
+#F5DB7D
+#F66464
+#4CF57C
+#5866F5
+*/
+
+/* apesar do azul da paleta ser #5866F5, foi utilizado #42A5F5 no footer pois não tinha a opção de escolher a cor manualmente */
+
+/* talvez valha a pena substituir #5866F5 por #42A5F5 durante o projeto todo? */
